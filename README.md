@@ -9,8 +9,9 @@ The system visualizes how failures propagate through interconnected nodes and pr
 # 🎥 Live Demo
 
 The application is deployed as an interactive web application using **Gradio**.
-
 Users can simulate different network conditions and observe **cascade failures in real time**.
+Try the deployed AI Network Failure Simulator here:
+https://aditiraj2903-ai-network-failure-simulator.hf.space
 
 ---
 
@@ -116,6 +117,17 @@ Possible enhancements for the project include:
 🔹 AI-based anomaly detection for early failure warnings  
 
 ---
+
+## 🌐 Deployment
+
+The application is deployed using Hugging Face Spaces.
+
+Framework: Gradio  
+Hosting Platform: Hugging Face Spaces  
+
+Live Application:
+https://aditiraj2903-ai-network-failure-simulator.hf.space
+
 
 # 🌍 Real-World Applications
 
