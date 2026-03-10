@@ -1,4 +1,4 @@
-# 🌐 AI Network Failure Simulator
+# 🌐CascadeAI - An AI Network Failure Simulator
 
 🚀 An interactive **Generative AI-powered simulator** that models cascading failures in complex networks such as **power grids, computer networks, and transportation systems**.
 
@@ -132,9 +132,7 @@ This project can be applied to multiple domains:
 # 👩‍💻 Author
 
 **Aditi Raj**  
-Manipal University Jaipur  
 
-💡 Interests: Machine Learning | Generative AI | Network Systems
 
 ---
 
