@@ -73,7 +73,24 @@ AI Scenario + Analysis Generation
 Interactive Interface (Gradio)
 
 
----
+## 📁 Project Structure
+AI-Network-Failure-Simulator
+│
+├── app.py # Main Gradio application
+├── requirements.txt # Project dependencies
+├── README.md # Project documentation
+├── LICENSE # MIT License
+├── .gitignore # Files ignored by Git
+│
+├── configs # Configuration settings
+│ └── settings.py
+│
+├── utils # Helper functions for network generation
+│ └── network_utils.py
+│
+└── tests # Basic test scripts
+└── test_simulation.py
+
 
 # 🔬 How the Simulation Works
 
